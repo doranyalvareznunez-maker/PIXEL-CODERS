@@ -3,7 +3,7 @@
 
 # Dorany Alvarez Nuñez
 
-- **Rol en la industria:** [Diseñador de Juego]
+- **Rol en la industria:** [Programador de Videojuego]
 - **ubicacion:** Florencia, Caqueta, Colombia
 - **Perfil:** [Soy estudiante Ingenieria de Multimedia en la UNAD, me apasiona la pintura, y con base de programacion de videojuego me interesa la logica de juego y la programacion de mecanica interactiva]
 
