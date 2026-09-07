@@ -34,7 +34,7 @@
 
 **BRENDA MELISSA ROJAS VIDAL**
 
-![Mi foto](melissa/foto_melissa.png)
+![Mi foto](melissa/foto_melissa.jpg)
 
 
 **Rol en la industria:** Guionista de Videojuegos
