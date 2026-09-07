@@ -2,7 +2,6 @@
 
 ![Mi foto](melissa/foto_melissa.png)
 
-
 **Rol en la industria:** Guionista de Videojuegos
 
 **Ubicación:** Campoalegre, Huila, Colombia
@@ -11,3 +10,4 @@
 
 **Mi plato favorito**
 ![Plato favorito](melissa/plato_favorito.png)
+
